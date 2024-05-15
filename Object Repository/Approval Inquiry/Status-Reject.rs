@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status-Reject</name>
+   <tag></tag>
+   <elementGuidId>f60631c5-c00b-447b-b160-8385e7db92cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[.='Reject']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[.='Reject']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>931cc178-6b80-4661-8fd6-fc18e185f75e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[value='RJC']</value>
+      <webElementGuid>818c1340-13c1-49c3-a9fd-fe0efc1b77ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[.='Reject']</value>
+      <webElementGuid>83140979-2e3a-491f-a29d-7cd2618b0093</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

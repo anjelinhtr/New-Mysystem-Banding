@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>THREAT_sebelum</name>
+   <tag></tag>
+   <elementGuidId>2c0f3078-83a3-41a3-99e2-3a29c76ef644</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='main_txtthread1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main_txtthread1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>4313b56c-de79-40e8-bf0e-10c75e31f45a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$main$txtthread1</value>
+      <webElementGuid>6c978a7e-65f0-4f99-823a-ff166914daaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>fa588dff-6be0-48bd-81b0-071e62384341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cols</name>
+      <type>Main</type>
+      <value>38</value>
+      <webElementGuid>b608817b-5464-4bb4-ad90-0982c271fcfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_txtthread1</value>
+      <webElementGuid>d1346aa6-d167-49d7-b834-f0bbe5a8aeb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled</name>
+      <type>Main</type>
+      <value>disabled</value>
+      <webElementGuid>20385a6f-23dd-4c6d-96ea-b65029df8191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>aspNetDisabled</value>
+      <webElementGuid>ff8cb941-1a4a-4038-8253-798a860624ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>THREAT=1. UNIT ACTIVE DI JACCS MPM (LUNAS PREPAID)___//
+
+</value>
+      <webElementGuid>5710d191-27c6-4e35-afc4-22b47f01277b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_txtthread1&quot;)</value>
+      <webElementGuid>322ae535-b6d9-45af-958c-142843c9d5a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='main_txtthread1']</value>
+      <webElementGuid>4339550c-367c-4bf5-9c56-34e32c891a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='main_table']/tbody/tr[22]/td[2]/div/textarea</value>
+      <webElementGuid>806d0099-3edf-4109-a18a-90b49a5938be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thread'])[1]/following::textarea[1]</value>
+      <webElementGuid>20ae8eef-9845-4c12-9965-68531d10a6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunity'])[1]/following::textarea[3]</value>
+      <webElementGuid>b72dfb79-01da-4a4a-968f-86ebd31080a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kepada'])[1]/preceding::textarea[2]</value>
+      <webElementGuid>5b374c40-18a0-4420-aaf8-ea18e1241208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tembusan'])[1]/preceding::textarea[2]</value>
+      <webElementGuid>24e23b86-a04d-461e-a647-77ad1cc15a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='THREAT=1. UNIT ACTIVE DI JACCS MPM (LUNAS PREPAID)___//']/parent::*</value>
+      <webElementGuid>b2164e09-7ff5-48ba-80f0-22933b812a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[22]/td[2]/div/textarea</value>
+      <webElementGuid>a4b5ffe8-95f9-4114-b97f-9b8f80b7f705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'ctl00$main$txtthread1' and @id = 'main_txtthread1' and (text() = 'THREAT=1. UNIT ACTIVE DI JACCS MPM (LUNAS PREPAID)___//
+
+' or . = 'THREAT=1. UNIT ACTIVE DI JACCS MPM (LUNAS PREPAID)___//
+
+')]</value>
+      <webElementGuid>6e4fda38-81e0-4253-a722-aeb7d7b5f35e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

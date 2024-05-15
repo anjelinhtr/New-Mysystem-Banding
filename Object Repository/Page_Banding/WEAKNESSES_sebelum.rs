@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>WEAKNESSES_sebelum</name>
+   <tag></tag>
+   <elementGuidId>b9c34e7d-9c38-4c79-ae37-e7d836a6c6ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='main_txtweaknes1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main_txtweaknes1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>0d2e42e2-9ebb-4c26-b650-4b07fd00c0d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$main$txtweaknes1</value>
+      <webElementGuid>76f5d847-1f74-4946-8ed2-8dd3e40c7455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>3c5d4207-d147-4aa6-8235-9f0aa09f15ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cols</name>
+      <type>Main</type>
+      <value>38</value>
+      <webElementGuid>ce36712a-a22b-4e9e-9dbc-fbca476538e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_txtweaknes1</value>
+      <webElementGuid>b885d04d-2e1b-40d9-a88b-799702879fcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled</name>
+      <type>Main</type>
+      <value>disabled</value>
+      <webElementGuid>2cb105dd-959d-4034-a8b3-29306c0751cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>aspNetDisabled</value>
+      <webElementGuid>3dd42766-6179-4925-be16-fdf137afc2c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WEAKNESSES=1. NEW DEBITUR, 2. RECORD PLAFON TERBESAR, 3. UNIT PERTAMA, 4. USAHA TERLIHAT REPERSENATIF NAMUN TIDAK MEREFLEKSIKAN DI REK KORAN DAN JUGA SLIK, 5. PBB BKR YANG DILAMPIRKAN TIDAK SESUAI DENGAN ALAMAT YANG CADEB TINGGALI SEKARANG, SEDANGKAN PBB SESUAI DENGAN ALAMAT KTP CADEB DI TASIKMALAYA, 6. DSR KETAT___//
+
+</value>
+      <webElementGuid>c4b8e34f-a832-4363-be67-00f6ba0dcaf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_txtweaknes1&quot;)</value>
+      <webElementGuid>0a566531-f966-4bc1-aad8-8d8f957186c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='main_txtweaknes1']</value>
+      <webElementGuid>4604734a-8933-4912-b829-a0031b4d2645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='main_table']/tbody/tr[20]/td[2]/div/textarea</value>
+      <webElementGuid>542b69f3-1c15-4242-acc0-ae4d59734b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weakness'])[1]/following::textarea[1]</value>
+      <webElementGuid>cac0018f-4fe5-4cd0-8e4d-a62f8dfcacae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strength'])[1]/following::textarea[3]</value>
+      <webElementGuid>eba08768-955b-461c-961f-44e7bf2e17f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opportunity'])[1]/preceding::textarea[2]</value>
+      <webElementGuid>15291e46-6d3a-4195-906c-e12d7508984d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thread'])[1]/preceding::textarea[4]</value>
+      <webElementGuid>108f5937-a9bb-4ce4-af36-6d8680e50e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[20]/td[2]/div/textarea</value>
+      <webElementGuid>22c1f6d0-bc10-4350-876a-8d4d04ff7078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'ctl00$main$txtweaknes1' and @id = 'main_txtweaknes1' and (text() = 'WEAKNESSES=1. NEW DEBITUR, 2. RECORD PLAFON TERBESAR, 3. UNIT PERTAMA, 4. USAHA TERLIHAT REPERSENATIF NAMUN TIDAK MEREFLEKSIKAN DI REK KORAN DAN JUGA SLIK, 5. PBB BKR YANG DILAMPIRKAN TIDAK SESUAI DENGAN ALAMAT YANG CADEB TINGGALI SEKARANG, SEDANGKAN PBB SESUAI DENGAN ALAMAT KTP CADEB DI TASIKMALAYA, 6. DSR KETAT___//
+
+' or . = 'WEAKNESSES=1. NEW DEBITUR, 2. RECORD PLAFON TERBESAR, 3. UNIT PERTAMA, 4. USAHA TERLIHAT REPERSENATIF NAMUN TIDAK MEREFLEKSIKAN DI REK KORAN DAN JUGA SLIK, 5. PBB BKR YANG DILAMPIRKAN TIDAK SESUAI DENGAN ALAMAT YANG CADEB TINGGALI SEKARANG, SEDANGKAN PBB SESUAI DENGAN ALAMAT KTP CADEB DI TASIKMALAYA, 6. DSR KETAT___//
+
+')]</value>
+      <webElementGuid>fee37c1e-1d3d-48a7-8902-e9cb9adf927d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

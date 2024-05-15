@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status-Return</name>
+   <tag></tag>
+   <elementGuidId>0f1ba41c-9ca5-4e08-bbda-bb7d821da304</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[.='Return']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[.='Return']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>2a0bde43-7aba-4e4d-b849-eaa46cba51c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[value='RTN']</value>
+      <webElementGuid>dad3b4fa-817e-4252-87b8-e74f20504711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[.='Return']</value>
+      <webElementGuid>c8c5a333-1e69-44d3-9538-8652a5c57c7c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status-Approved</name>
+   <tag></tag>
+   <elementGuidId>7ef13487-c1aa-42c1-9ee7-1d5db81361cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[.='Approved']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[.='Approved']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>2362f823-e91f-4d48-a5e1-b73a25a75bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[value='APR']</value>
+      <webElementGuid>d054b2b8-74ed-4124-9e37-9d638971b054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[.='Approved']</value>
+      <webElementGuid>0d43a831-adb1-401e-a328-3aab5520979d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

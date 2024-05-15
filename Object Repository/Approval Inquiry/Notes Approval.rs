@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Notes Approval</name>
+   <tag></tag>
+   <elementGuidId>534a8808-fa6d-4c0d-8536-c62814120ce6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Appproval']/div/div/div[4]/div/div/div/div[3]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@id='main_txtnote'][count(. | //textarea[@id = 'main_txtnote']) = count(//textarea[@id = 'main_txtnote'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.note-editable.card-block > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>b1e13c50-9e5c-4b8a-8396-faceb1bebaf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//textarea[@id='main_txtnote']</value>
+      <webElementGuid>6ee9056e-67b9-40fa-981f-19497f768540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_txtnote</value>
+      <webElementGuid>c08f1509-2306-435a-b028-3fe7085b1fd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Appproval']/div/div/div[4]/div/div/div/div[3]/div[2]/p</value>
+      <webElementGuid>96e556b7-2840-47c8-a302-535c1a23dad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/following::p[1]</value>
+      <webElementGuid>8f811f5e-3b89-4026-8942-99f0f3ff68ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset to default'])[1]/following::p[1]</value>
+      <webElementGuid>e7aaa51e-5a4b-4419-b193-721bbbf0dbce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert Link'])[1]/preceding::p[1]</value>
+      <webElementGuid>d97944db-150c-4148-801b-85ac804733d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text to display'])[1]/preceding::p[1]</value>
+      <webElementGuid>c53549e8-58ae-4792-ac71-0fc0d71e3e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>00126cfe-8edd-4c8e-a502-e7beb59b872e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

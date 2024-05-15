@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SPV_Ahmad Rizky Al Muttaqi</name>
+   <tag></tag>
+   <elementGuidId>45b8aa14-4248-42f7-a7d8-3df642c986b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>option[value='AhmadRA']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>92f33d2e-ce0f-4564-8949-94df9e15d266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>option[value='AhmadRA']</value>
+      <webElementGuid>263c2b1a-4745-4b00-aa36-5dd2f1ac8d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[.='Ahmad Rizky Al Muttaqi']</value>
+      <webElementGuid>6fb34f63-9ef2-4799-942e-37355cc77860</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

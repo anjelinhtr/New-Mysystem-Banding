@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status</name>
+   <tag></tag>
+   <elementGuidId>f2c5a9a3-833a-4dca-835f-cf2bb54b234c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='main_ddlapproval']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main_ddlapproval&quot;)[count(. | //select[@id = 'main_ddlapproval']) = count(//select[@id = 'main_ddlapproval'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main_ddlapproval</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>23694c61-bc9a-410c-aa7c-d3171405dca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$main$ddlapproval</value>
+      <webElementGuid>fe7cb73b-0246-4372-a3e9-b56953e4155d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_ddlapproval</value>
+      <webElementGuid>0f49504d-a69d-4228-b8c9-375b8213c002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>89477de0-8694-474f-913c-a608fd5df660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	- Select One -
+	Approved
+	Reject
+	Return
+
+</value>
+      <webElementGuid>a5ffb69d-73c5-44b1-aa74-1c4b7cddd1b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_ddlapproval&quot;)</value>
+      <webElementGuid>9d2de022-9c15-4f11-abee-396d3869620e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='main_ddlapproval']</value>
+      <webElementGuid>07a7fb08-1840-4888-b1e1-89eb2ed80156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Appproval']/div/div/div[3]/div/div/select</value>
+      <webElementGuid>7f0ef9a2-6959-4cce-b2f0-6949f59e2750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Approval'])[1]/following::select[1]</value>
+      <webElementGuid>71e003b7-8d03-4974-b3c4-8658e9fd7b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Approval'])[1]/following::select[1]</value>
+      <webElementGuid>efd72750-22bb-40d2-baff-21908b446c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Note'])[1]/preceding::select[1]</value>
+      <webElementGuid>571726c5-dd76-479a-8383-e0bd5cdba1ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blockquote'])[1]/preceding::select[1]</value>
+      <webElementGuid>39cb9b3a-1dfb-4493-80f6-f3744d650005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[3]/div/div/select</value>
+      <webElementGuid>555a516f-7012-4569-8f7a-52d9b7da440e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$main$ddlapproval' and @id = 'main_ddlapproval' and (text() = '
+	- Select One -
+	Approved
+	Reject
+	Return
+
+' or . = '
+	- Select One -
+	Approved
+	Reject
+	Return
+
+')]</value>
+      <webElementGuid>e1e1ff18-1534-4c89-916b-96dbfb6376c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

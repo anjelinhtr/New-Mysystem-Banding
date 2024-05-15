@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Tembusan</name>
+   <tag></tag>
+   <elementGuidId>9c7c94c8-f176-4f52-bbd7-51a6ac3c7702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='main_ddltembusan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#main_ddltembusan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e461faac-904a-46e0-b552-e1f5e8cc0e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ctl00$main$ddltembusan</value>
+      <webElementGuid>46260935-69d1-4ee3-8471-029f22ac884d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ctl00$main$ddltembusan\',\'\')', 0)</value>
+      <webElementGuid>733a3047-29aa-4c8e-9d6d-311274724a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>main_ddltembusan</value>
+      <webElementGuid>d0261472-52a9-4772-8c7b-aa6efdb12d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>90407769-a322-4e32-9a16-fab6f1fd464f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	- Select One -
+	1
+	2
+
+</value>
+      <webElementGuid>07dcdde3-fd0e-4867-a32c-634c3b3887ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_ddltembusan&quot;)</value>
+      <webElementGuid>2b7e37de-d699-4e4e-b71a-e25a4f7a99cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='main_ddltembusan']</value>
+      <webElementGuid>d51a6011-276a-49f9-892e-9bd7da7c8bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myDetail']/div[2]/div[3]/div/div/select</value>
+      <webElementGuid>739c5a06-3bd7-4e9e-9c16-bf893c2e7c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tembusan'])[1]/following::select[1]</value>
+      <webElementGuid>a39e2c9b-9502-4ab8-85f7-2d933fa2e1ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kepada'])[1]/following::select[2]</value>
+      <webElementGuid>5c33ca40-f559-49e8-b5dd-f371edfdbb44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whatsapp Information'])[1]/preceding::select[1]</value>
+      <webElementGuid>f958d979-b998-46bf-88cf-05e9246726d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team replies in a minute'])[1]/preceding::select[1]</value>
+      <webElementGuid>1524415a-c80b-4589-bf98-47760a04d786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/select</value>
+      <webElementGuid>ef79c915-2b4b-4288-aa1f-509e9115bc2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ctl00$main$ddltembusan' and @id = 'main_ddltembusan' and (text() = '
+	- Select One -
+	1
+	2
+
+' or . = '
+	- Select One -
+	1
+	2
+
+')]</value>
+      <webElementGuid>81f8a04b-56b4-47f8-8701-78ed8c90b528</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
